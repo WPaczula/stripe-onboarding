@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stripe-onboarding/static/css/main.0727d2db.chunk.css",
+    "main.js": "/stripe-onboarding/static/js/main.c7f59b03.chunk.js",
+    "main.js.map": "/stripe-onboarding/static/js/main.c7f59b03.chunk.js.map",
+    "runtime-main.js": "/stripe-onboarding/static/js/runtime-main.10e5fdaa.js",
+    "runtime-main.js.map": "/stripe-onboarding/static/js/runtime-main.10e5fdaa.js.map",
+    "static/js/2.ca0b5ac6.chunk.js": "/stripe-onboarding/static/js/2.ca0b5ac6.chunk.js",
+    "static/js/2.ca0b5ac6.chunk.js.map": "/stripe-onboarding/static/js/2.ca0b5ac6.chunk.js.map",
+    "static/js/3.32c770e6.chunk.js": "/stripe-onboarding/static/js/3.32c770e6.chunk.js",
+    "static/js/3.32c770e6.chunk.js.map": "/stripe-onboarding/static/js/3.32c770e6.chunk.js.map",
+    "index.html": "/stripe-onboarding/index.html",
+    "static/css/main.0727d2db.chunk.css.map": "/stripe-onboarding/static/css/main.0727d2db.chunk.css.map",
+    "static/js/2.ca0b5ac6.chunk.js.LICENSE.txt": "/stripe-onboarding/static/js/2.ca0b5ac6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e5fdaa.js",
+    "static/js/2.ca0b5ac6.chunk.js",
+    "static/css/main.0727d2db.chunk.css",
+    "static/js/main.c7f59b03.chunk.js"
+  ]
+}
