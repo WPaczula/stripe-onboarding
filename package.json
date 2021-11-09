@@ -1,6 +1,6 @@
 {
   "name": "stripe-onboarding",
-  "homepage": "https://wpaczula.github.io/stripe-onboarding",
+  "homepage": "https://sleepy-benz-3fc843.netlify.app/",
   "version": "0.1.0",
   "dependencies": {
     "@stripe/stripe-js": "^1.18.0",
